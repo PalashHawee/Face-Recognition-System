@@ -112,7 +112,7 @@ Relational Database Management System (RDBMS)
 ![ChatBot](https://github.com/PalashHawee/Face-Recognition-System/blob/main/Screen%20Shots%20Output/ChatBot/cht.PNG)
 ## Photos Captured for Training
 
-![Photo](https://github.com/PalashHawee/Face-Recognition-System/blob/main/Screen%20Shots%20Output/Attendance/at01.PNG)
+![Photo](https://github.com/PalashHawee/Face-Recognition-System/blob/main/Screen%20Shots%20Output/Photos/pp.PNG)
 
 
 ## Project Modules
