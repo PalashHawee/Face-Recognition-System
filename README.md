@@ -52,14 +52,39 @@ Algorithm used:
 ### Flow Chart
 
 
-![Flow Chart](https://github.com/PalashHawee/Face-Recognition-System/commit/6f747c31d770e58640396145753c8edbe170e8fc)
+![Flow Chart](https://github.com/PalashHawee/Face-Recognition-System/blob/main/Flow%20chart%20Final.png)
 
-## Demo
+### ER Diagram
+![ER Diagram](https://github.com/PalashHawee/Face-Recognition-System/blob/main/ER%20Diagram.png)
 
-https://github.com/PalashHawee/Face-Recognition-System/blob/main/Flow%20chart%20Final.png
+## Features
+
+- Adding Student Details
+- Deleting Student Details
+- Editing Student Details
+- Take the Student Photo Sample
+- Import Attendace in CSV format
+- Export Attendace in CSV format
+- ChatBot
+- Contact with Developer
+- Automatic Attendace with Face Recognition
 
 
-## Screenshots
+## Database
 
-![App Screenshot](https://github.com/PalashHawee/Face-Recognition-System/blob/main/Screen%20Shots%20Output/Attendance/at01.PNG)
+Relational Database Management System (RDBMS)
 
+### Language
+
+Python
+## Login Page
+
+![Log In](https://github.com/PalashHawee/Face-Recognition-System/blob/main/Screen%20Shots%20Output/Login/log.PNG)
+
+## Registration Page
+
+![Registration](https://github.com/PalashHawee/Face-Recognition-System/blob/main/Screen%20Shots%20Output/Register/register.PNG)
+
+## Home Page 
+
+![Home](https://github.com/PalashHawee/Face-Recognition-System/blob/main/Screen%20Shots%20Output/Home/home.PNG)
