@@ -30,17 +30,17 @@ Install my-project with npm
 
   
 ```
-    SOFTWARE REQUIREMENTS PLATFORM
+### SOFTWARE REQUIREMENTS PLATFORM
 
-	Operating system: Windows OS
-    Platform: Android Studio
-    Programming language: Python
+#### Operating system: Windows OS
+#### Platform: Android Studio
+#### Programming language: Python
 
-    HARDWARE REQUIREMENTS
+#### HARDWARE REQUIREMENTS
 
-	Processor: INTEL Pentium 4 Processor Core
-	Hard Disk: 40 GB (min)
-	Ram: 256 MB or higher
+#### Processor: INTEL Pentium 4 Processor Core
+#### Hard Disk: 40 GB (min)
+#### Ram: 256 MB or higher
 
 
 ## System Design
@@ -74,9 +74,7 @@ Algorithm used:
 
 Relational Database Management System (RDBMS)
 
-### Language
 
-Python
 ## Login Page
 
 ![Log In](https://github.com/PalashHawee/Face-Recognition-System/blob/main/Screen%20Shots%20Output/Login/log.PNG)
@@ -88,3 +86,71 @@ Python
 ## Home Page 
 
 ![Home](https://github.com/PalashHawee/Face-Recognition-System/blob/main/Screen%20Shots%20Output/Home/home.PNG)
+
+## Student Page
+
+![Student](https://github.com/PalashHawee/Face-Recognition-System/blob/main/Screen%20Shots%20Output/Student/st.PNG)
+
+## Taking Photo
+
+![Taking Photo](https://github.com/PalashHawee/Face-Recognition-System/blob/main/Screen%20Shots%20Output/Taking%20photo/take.PNG)
+
+## Traing Data
+
+![Training Data](https://github.com/PalashHawee/Face-Recognition-System/blob/main/Screen%20Shots%20Output/Training%20data/tr3.PNG)
+
+## Face Detection
+
+![Face Detection](https://github.com/PalashHawee/Face-Recognition-System/blob/main/Screen%20Shots%20Output/Training%20data/tr3.PNG)
+
+
+## Attendance
+
+![Attendance](https://github.com/PalashHawee/Face-Recognition-System/blob/main/Screen%20Shots%20Output/Attendance/at01.PNG)
+
+## ChatBot
+
+![ChatBot](https://github.com/PalashHawee/Face-Recognition-System/blob/main/Screen%20Shots%20Output/Attendance/at01.PNG)
+
+## Photos Captured for Training
+
+
+![Photo](https://github.com/PalashHawee/Face-Recognition-System/blob/main/Screen%20Shots%20Output/Attendance/at01.PNG)
+
+
+## Project Modules
+
+### MODULES
+#### Login Security System
+#### Sign up:
+Any user can register by entering their personal information along their phone number and password of their choice.
+Login:
+User can login to the system using their user name and password. For new user there will be options for registration to the system.
+#### Home Page
+#### Student Management System:
+In this module user can delete, update, edit, clear and add photo sample of students, students details will be displayed in the same page where information will be retrieved from our database.
+#### Train Photo Samples
+In this section user will collect students’ photo to train them well for the recognition.
+#### Take Attendance with Face Recognition
+In this module student records will be done with their face recognition.
+#### Attendance Report
+Attendance report can be viewed or downloaded in the form of CSV or Excel file in this section.
+#### Developer Page
+User can contact with the developer of the system if necessary.
+#### Exit Page
+User can exit the system whenever it is required without losing any data.
+
+
+
+
+
+
+
+## Authors
+
+- [@PalashHawee](https://github.com/PalashHawee)
+
+
+## 🛠 Skills
+Python, Java, JavaScript, Data Science, Machine Learning
+
