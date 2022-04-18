@@ -95,14 +95,13 @@ Relational Database Management System (RDBMS)
 
 ![Taking Photo](https://github.com/PalashHawee/Face-Recognition-System/blob/main/Screen%20Shots%20Output/Taking%20photo/take.PNG)
 
-## Traing Data
+## Training Data
 
 ![Training Data](https://github.com/PalashHawee/Face-Recognition-System/blob/main/Screen%20Shots%20Output/Training%20data/tr3.PNG)
 
 ## Face Detection
 
-![Face Detection](https://github.com/PalashHawee/Face-Recognition-System/blob/main/Screen%20Shots%20Output/Training%20data/tr3.PNG)
-
+![Face Detection](https://github.com/PalashHawee/Face-Recognition-System/blob/main/Screen%20Shots%20Output/face%20detector/f2.PNG)
 
 ## Attendance
 
@@ -110,10 +109,8 @@ Relational Database Management System (RDBMS)
 
 ## ChatBot
 
-![ChatBot](https://github.com/PalashHawee/Face-Recognition-System/blob/main/Screen%20Shots%20Output/Attendance/at01.PNG)
-
+![ChatBot](https://github.com/PalashHawee/Face-Recognition-System/blob/main/Screen%20Shots%20Output/ChatBot/cht.PNG)
 ## Photos Captured for Training
-
 
 ![Photo](https://github.com/PalashHawee/Face-Recognition-System/blob/main/Screen%20Shots%20Output/Attendance/at01.PNG)
 
