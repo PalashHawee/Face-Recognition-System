@@ -1,3 +1,4 @@
+citation : [![DOI](https://zenodo.org/badge/482795365.svg)](https://zenodo.org/badge/latestdoi/482795365)
 
 # Face Recognition Attendance System
 
