@@ -3,6 +3,7 @@ message: "If you use this software, please cite it as below."
 authors:
 - family-names: "Hawee"
   given-names: "Palash"
+  orcid: "https://orcid.org/my-orcid?orcid=0000-0002-1041-1474"
 title: "Face-Recognition-System"
 version: 1.0.0
 doi: 10.5281/zenodo.6477050
