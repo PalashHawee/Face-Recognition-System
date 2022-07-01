@@ -27,7 +27,7 @@ The identification process to determine the presence of a person in a room or bu
   see requirements.txt
 
   
-```
+
 ### SOFTWARE REQUIREMENTS PLATFORM
 
 #### Operating system: Windows OS
