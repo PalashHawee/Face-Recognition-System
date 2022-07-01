@@ -24,9 +24,6 @@ The identification process to determine the presence of a person in a room or bu
 
 ## Installation
 
-Install my-project with npm
-
-```bash
   see requirements.txt
 
   
