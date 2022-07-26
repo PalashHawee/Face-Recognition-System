@@ -13,7 +13,7 @@ Attendance monitoring system will save a lot of time and energy for the both par
 ## Acknowledgements
 
 
-I express my deep sense of gratitude towards Assistant Prof. Dr. Somshekhar MT for his valuable guidance and his interest; I am able to complete this project in scheduled time.
+I express my deep sense of gratitude towards Assistant Prof. [Dr. Somshekhar MT](https://bangaloreuniversity.ac.in/wp-content/uploads/2018/02/Dr.-M.T.-Somashekara-CV-27012018.pdf) for his valuable guidance and his interest; I am able to complete this project in scheduled time.
  I am indebted to our honorable principal Prof. [Dr. Hanumanthappa](https://eng.bangaloreuniversity.ac.in/wp-content/uploads/2016/09/MCA-HANUMANTHAPPA-M-CV-16092016.pdf) who has been a constant source of motivation and co-operating in bringing this project in very short time
 Lastly, I am thankful to all other staff members of MCA Department from [Bangalore University](https://eng.bangaloreuniversity.ac.in/) who have directly and indirectly helped me while completing this project report.
 
