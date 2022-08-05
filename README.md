@@ -147,5 +147,5 @@ User can exit the system whenever it is required without losing any data.
 
 
 ## 🛠 Skills
-Python, Java, JavaScript, Data Science, Machine Learning
+Python, Data Science, Machine Learning
 
