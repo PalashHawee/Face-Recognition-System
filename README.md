@@ -31,7 +31,7 @@ The identification process to determine the presence of a person in a room or bu
 ### SOFTWARE REQUIREMENTS PLATFORM
 
 #### Operating system: Windows OS
-#### Platform: Android Studio
+
 #### Programming language: Python
 
 #### HARDWARE REQUIREMENTS
